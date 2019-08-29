@@ -1,5 +1,3 @@
-#copy the followign into sublime, Atom or another text editor
-
 let mobilenet;
 let video;
 let label = '';
